@@ -4,6 +4,7 @@ This System is developed wiht the help of arduino and 000webhostapp.com
 
 
 000webhostapp.com is used as its a free tool for hosting websites along with sql databases. 
+
 The following hardware is required:-
 1. Arduino Nano - ATMEGA328p (v- old bootloader)
 2. ESP8266 Wifi Module - to send data to website
